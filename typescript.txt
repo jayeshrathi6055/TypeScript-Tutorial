@@ -1,0 +1,5 @@
+Installation of typeScript------------------------------>
+npm install -g typescript ts-node
+
+Run any ts file---------------------------------------->
+npx ts-node <fileName.ts>
